@@ -1,4 +1,4 @@
-# Spotify Playlist Automation  
+# Spotify Playlist Automation  [Video-Link](https://www.linkedin.com/posts/shivang-gupta-838420253_pythonforbeginners-webscrapingmadesimple-activity-7281783761275383809-u8rs?utm_source=share&utm_medium=member_desktop)
 
 This repository contains two Python scripts that automate the creation of Spotify playlists:  
 1. **Billboard to Spotify**  
