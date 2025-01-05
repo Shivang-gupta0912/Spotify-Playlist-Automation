@@ -46,9 +46,10 @@ This script generates a Spotify playlist of your favorite songs by leveraging Sp
    pip install -r requirements.txt
 
 3. Create a .env file and add your Spotify credentials:
-CLIENT_ID=your_spotify_client_id
-CLIENT_SECRET_CODE=your_spotify_client_secret
-USER_NAME=your_spotify_username
+    ```.env
+    CLIENT_ID=your_spotify_client_id
+    CLIENT_SECRET_CODE=your_spotify_client_secret
+    USER_NAME=your_spotify_username
 
 4. Run the scripts:
 - For Billboard to Spotify:
