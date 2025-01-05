@@ -6,7 +6,9 @@ This repository contains two Python scripts that automate the creation of Spotif
 
 ## 1. Billboard to Spotify  
 
-![](images/BillBoardToSpotify.png)
+<p align="center">
+  <img src="images/BillBoardToSpotify.png" alt="" width="500"/>
+</p>
 
 ### Overview  
 This script automates the creation of Spotify playlists from Billboard's Top 100 songs on a specified date.  
