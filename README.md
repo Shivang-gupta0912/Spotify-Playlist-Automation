@@ -36,3 +36,5 @@ This script generates a Spotify playlist of your favorite songs by leveraging Sp
 
 This project uses Spotify's Web API for playlist creation and song fetching. You can learn more about it here:
 [Spotify Web API Documentation](https://developer.spotify.com/documentation/web-api)
+
+[Shivang Gupta]
